@@ -54,7 +54,7 @@ print(num,word,mathproblem)
 print(str(num) + word + str(mathproblem))
 
 # 6) Story Time
-#Make variables to store: my character’s name, his age, and his favorite colour.
+# Make variables to store: my character’s name, his age, and his favorite colour.
 # Then print a short story using them!
 name='Jamie Rusynyk'
 age=50
