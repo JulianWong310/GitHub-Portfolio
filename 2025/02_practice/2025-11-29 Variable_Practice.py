@@ -14,7 +14,7 @@ We can put stuff in them, change what’s inside, and use them to do math or wri
 # Start with a letter
 # Use letters,numbers or_
 # No spaces
-# Don't use Pythod words
+# Don't use Python words
 # Case sensitive
 # Better to be clear and meaningful
 
