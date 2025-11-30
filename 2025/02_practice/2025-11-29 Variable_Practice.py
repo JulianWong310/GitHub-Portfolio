@@ -25,8 +25,8 @@ print(name_willowway)
 
 # 2) Favorite Number
 # Make a variable that stores my favorite number and print it.
-FavouriteNumber=1000
-print(FavouriteNumber)
+favourite_number=1000
+print(favourite_number)
 
 # 3) Changing What’s Inside
 # Create a variable called score, set it to 5, then change it to 10.
