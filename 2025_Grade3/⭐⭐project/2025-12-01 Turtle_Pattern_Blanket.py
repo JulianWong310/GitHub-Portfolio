@@ -75,12 +75,12 @@ def flower():
     t.end_fill()
 
 # put all the shapes in the blanket
-def place_shapes(draw_func, x, y):
+def place_shapes(shapes, x, y):
     t.penup()
     t.goto(x, y)
     t.setheading(0) # facing right
     t.pendown()
-    draw_func()
+    shapes()
 
 # call all the functions
 blanket()
