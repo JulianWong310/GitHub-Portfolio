@@ -25,10 +25,10 @@ def blanket():
     t.pendown()
 
     t.begin_fill()
-    t.goto(220, 170)
+    t.goto(220,170)
     t.goto(220, -170)
     t.goto(-220, -170)
-    t.goto(-220, 170)
+    t.goto(-220,170)
     t.end_fill()
 
 # draw and paint a square
@@ -84,11 +84,11 @@ def place_shapes(draw_func, x, y):
 
 # call all the functions
 blanket()
-place_shapes(square,  110, 100)
-place_shapes(circle,   130, -110)
-place_shapes(star,      -152, -80)
-place_shapes(triangle ,  -157, 100)
-place_shapes(flower,     5,  0)
+place_shapes(square,110, 100)
+place_shapes(circle,130, -110)
+place_shapes(star,  -152,  -80)
+place_shapes(triangle , -157, 100)
+place_shapes(flower,5,  0)
 
 # write a message on the top of the picture
 t.penup()
