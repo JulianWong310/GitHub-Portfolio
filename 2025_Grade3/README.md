@@ -13,7 +13,7 @@ This folder contains my projects and practice exercises as I start learning Pyth
 
 ### Projects
 These are small projects I created to apply what I learned:
-- `2025-12-30 Turtle_Pattern_Blanket.py` - Example: Draw the Blanket with Turtle
+- `2025-12-01 Turtle_Pattern_Blanket.py` - Example: Draw the Blanket with Turtle
 
 
 ### Practice
