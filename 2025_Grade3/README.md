@@ -12,12 +12,12 @@ This folder contains my projects and practice exercises as I start learning Pyth
 
 ### Projects
 These are small projects I created to apply what I learned:
-- `2025-12-03 Turtle_Pattern_Blanket.py` - Example: Draw the Blanket with Turtle
+- `2025-12-03 Turtle_Pattern_Blanket.py` - Project: Drawing a blanket pattern with Turtle
 
 ### Practice
 These are practice exercises to improve my Python skills:
-- `2025-11-22 print_practice.py` - Example: For Print() Function
-- `2025-11-29 variable_practice.py` - Example: For Variables
+- `2025-11-22 print_practice.py` - Practice: Using the print() function
+- `2025-11-29 variable_practice.py` - Practice: Working with variables
 
 ## Goals for 2025
 1. Learn Python basics: variables, data types, loops, functions  
