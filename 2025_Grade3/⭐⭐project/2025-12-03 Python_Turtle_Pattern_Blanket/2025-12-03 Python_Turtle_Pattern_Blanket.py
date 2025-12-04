@@ -4,8 +4,8 @@
 This project uses Python Turtle
 to draw a colorful blanket filled with fun shapes.
 The picture includes:
-•  A pink blanket background
-•	 A cyan square
+• A pink blanket background
+•	A cyan square
 •	A  blue circle
 •	A red flower made with repeated arcs
 •	A yellow star
