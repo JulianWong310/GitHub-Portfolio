@@ -16,8 +16,8 @@ These are small projects I created to apply what I learned:
 
 ### Practice
 These are practice exercises to improve my Python skills:
-- `2025-11-22 print_practice.py` - Practice: Using the print() function
-- `2025-11-29 variable_practice.py` - Practice: Working with variables
+- `2025-11-22 Python_print_practice.py` - Practice: Using the print() function
+- `2025-11-29 Python_variable_practice.py` - Practice: Working with variables
 
 ## Goals for 2025
 1. Learn Python basics: variables, data types, loops, functions  
