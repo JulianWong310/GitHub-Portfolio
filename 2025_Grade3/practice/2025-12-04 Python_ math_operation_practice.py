@@ -74,7 +74,7 @@ print(w%l)
 # Practice 10: Make Your Own
 # Create your own math problem using any operator and solve it with Python.
 # Calvin has 4489 presents.
-# Calvin gives presents to 67 kids
+# Calvin gives presents to 67 kids.
 # How many presents will each kid get?
 d=4489
 n=67
