@@ -27,10 +27,10 @@ print(f"{name1}'s favorite food is {favorite_food}.")
 
 # Practice 5: Math With f-strings
 # Create two numbers and print the answer inside a sentence.
-num1 = 9
+num1 = 60
 num2 = 7
-num3 = num1 * num2
-print(f"{num1} *  {num2} = {num3} ")
+num3 = num1 + num2
+print(f"{num1} +｛num2} = {num3} ")
 
 # Practice 6: Character Story
 # Make variables for: hero's name,superpower, and mission.
