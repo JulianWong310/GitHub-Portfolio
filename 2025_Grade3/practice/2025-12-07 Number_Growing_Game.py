@@ -7,8 +7,8 @@ Each time, it adds 2 to the number.
 What is the final value of x after 5 steps?
 """
 # first time x = 1 + 2 = 3
-# second time x = 3 + 2 =5
-# third time x = 5 + 2 =  7
+# second time x = 3 + 2 = 5
+# third time x = 5 + 2 = 7
 # fourth time x = 7 + 2 = 9
 # fifth time x = 9 + 2 = 11
 
@@ -52,7 +52,7 @@ x = 5
 l=5
 for i in range(5):
     x=x+l # 10, 16, 23, 31, 40
-    l=l+1  # 6, 7, 8, 9, 10
+    l=l+1 # 6, 7, 8, 9, 10
 print(x)
 print(l)
 
