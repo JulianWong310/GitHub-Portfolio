@@ -10,7 +10,7 @@ What is the final value of x after 5 steps?
 # second time x = 3 + 2 =5
 # third time x = 5 + 2 =  7
 # fourth time x = 7 + 2 = 9
-# fifth time x = 9  +  2 = 11
+# fifth time x = 9 + 2 = 11
 
 # Method 1
 f=1
@@ -44,14 +44,14 @@ The add numbers are:
 What is the final value of x?
 """
 # 1st: 5 + 5 = 10
-# 2nd:10 + 6 = 16
+# 2nd: 10 + 6 = 16
 # 3rd: 16 + 7 = 23
-# 4th: 23 + 8  = 31
-# 5th: 31 + 9  = 40
+# 4th: 23 + 8 = 31
+# 5th: 31 + 9 = 40
 x = 5
 l=5
 for i in range(5):
-    x=x+l # 10,16,23,31,40
+    x=x+l # 10, 16, 23, 31, 40
     l=l+1  # 6, 7, 8, 9, 10
 print(x)
 print(l)
