@@ -1,5 +1,5 @@
 """
-2025-12-07
+2025/12/07
 Problem 1
 A machine starts with a number x = 1.
 It repeats this rule 5 times:
