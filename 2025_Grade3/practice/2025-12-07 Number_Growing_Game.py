@@ -38,7 +38,7 @@ A machine starts with:
 x = 5
 The machine runs 5 times.
 Each time:
-	•	Add 1 more than last time starting from 5
+Add 1 more than last time starting from 5
 The add numbers are:
 +,5 +6, +7, +8, +9
 What is the final value of x?
@@ -49,7 +49,7 @@ What is the final value of x?
 # 4th: 23 + 8 = 31
 # 5th: 31 + 9 = 40
 x = 5
-l=5
+l = 5
 for i in range(5):
     x=x+l # 10, 16, 23, 31, 40
     l=l+1 # 6, 7, 8, 9, 10
@@ -57,12 +57,11 @@ print(x)
 print(l)
 
 """
- Problem 3 : 
+Problem 3 : 
 A number sequence starts like this:
 2, 4, 7, 11, 16, ?
 Each new number is made by adding:
 +2, then +3, then +4, then +5, then +6 …
-Question:
 What is the next number?
 """
 j=2
