@@ -57,7 +57,7 @@ print(x)
 print(l)
 
 """
-Problem 3 : 
+Problem 3 
 A number sequence starts like this:
 2, 4, 7, 11, 16, ?
 Each new number is made by adding:
