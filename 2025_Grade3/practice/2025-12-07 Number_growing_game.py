@@ -43,16 +43,16 @@ The add numbers are:
 +,5 +6, +7, +8, +9
 What is the final value of x?
 """
-# 1st:     5 +   5 =  10
-#  2nd:  10 + 6  = 16
-# 3rd:    16 + 7  = 23
-# 4th:    23 + 8  = 31
-# 5th:    31 + 9  = 40
+# 1st: 5 + 5 = 10
+# 2nd:10 + 6 = 16
+# 3rd: 16 + 7 = 23
+# 4th: 23 + 8  = 31
+# 5th: 31 + 9  = 40
 x = 5
 l=5
 for i in range(5):
     x=x+l # 10,16,23,31,40
-    l=l+1  #   6, 7,  8,  9, 10
+    l=l+1  # 6, 7, 8, 9, 10
 print(x)
 print(l)
 
@@ -62,7 +62,7 @@ A number sequence starts like this:
 2, 4, 7, 11, 16, ?
 Each new number is made by adding:
 +2, then +3, then +4, then +5, then +6 …
-👉 Question:
+Question:
 What is the next number?
 """
 j=2
