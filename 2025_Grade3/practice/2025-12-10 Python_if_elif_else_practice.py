@@ -4,11 +4,11 @@ Key Points for if, elif, and else
 1. if can be used alone
 2. elif must follow if
 3. else is optional
-4.elif cannot exist without if
+4. elif cannot exist without if
 5. elif stops checking after a match
 6. if + if keeps checking everything
 7. If many rules can happen → use if + if
-8.  If only one rule can happen → use if + elif + else
+8. If only one rule can happen → use if + elif + else
 """
 
 """
