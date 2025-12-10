@@ -8,7 +8,7 @@ input() lets the computer ask you a question and then wait for your answer.
 It’s like the computer is talking to you!
 """
 
-# 🌟 Practice1 — Name
+# 🌟 Practice 1 — Name
 # Write a program that:
 # Asks the user: “What is your name?”
 # Prints: “Nice to meet you, ___!”
@@ -27,7 +27,7 @@ print(f"I like {colour} too! ")
 age=input("How old are you?")
 print(f"Next year, you will be {age} years old.")
 
-# 🌟 Practice 4 —Add two numbers
+# 🌟 Practice 4 — Add two numbers
 # You will need to turn the input into a number using int().
 # Asks the user 2 numbers
 # Prints:" The total is ____"
