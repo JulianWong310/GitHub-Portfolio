@@ -1,3 +1,3 @@
-🐍 Hi! I'm Julian 
+🐍 Hi! I'm Julian,
 currently learning Python
 
