@@ -13,6 +13,7 @@ print(f(...))
 
 1) If a function has no return, it returns None.
 2) return ends the function immediately.
+3) parameters are variables that receive values from function calls.
 """
 
 """
