@@ -15,19 +15,9 @@ The answer is decided before the loop finishes
 The problem says “stop when…”
 8) Do not use return in a loop if the loop must finish.
 """
-"""
-⭐ Problem 1 — Square a Number (Easy)
-Write a function square(n).
-The function returns n × n.
-"""
-def square(n):
-    return n * n
-
-n = int(input())
-print(square(n))
 
 """
-⭐ Problem 2 — Say Hi
+⭐ Problem 1 — Say Hi
 Write a function say_hi(name).
 The function returns the string:
 "Hi <name>"
@@ -39,7 +29,7 @@ name = input()
 print(say_hi(name))
 
 """
-⭐ Problem 3 — Greet by Name and Gender (Correct f-string Use)
+⭐ Problem 2 — Greet by Name and Gender (Correct f-string Use)
 Description
 Write a program that greets a person using their name and gender.
 If the gender is "M", return "Hello Mr. <name>, welcome!"
@@ -67,7 +57,18 @@ gender=input()
 print(J(name,gender))
 
 """
-⭐⭐ Problem 4 — Add Three Numbers
+⭐ Problem 3 — Square a Number (Easy)
+Write a function square(n).
+The function returns n × n.
+"""
+def square(n):
+    return n * n
+
+n = int(input())
+print(square(n))
+
+"""
+⭐ Problem 4 — Add Three Numbers
 Description
 Write a program that adds three numbers.
 Input
@@ -84,7 +85,7 @@ c=int(input())
 print(py(a,b,c))
 
 """
-⭐⭐ Problem 5 — Sum from 1 to n
+⭐ Problem 5 — Sum from 1 to n
 Write a function sum_to_n(n).
 The function returns the sum:
 1 + 2 + 3 + ... + n
