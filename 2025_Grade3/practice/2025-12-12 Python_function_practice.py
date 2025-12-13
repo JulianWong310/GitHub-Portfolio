@@ -1,6 +1,6 @@
 """
 2025/12/12
-Summery
+Summary
 🧑‍🏫Standard Template
 def f(...):
     # do math / logic
