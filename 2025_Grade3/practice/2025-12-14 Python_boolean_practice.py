@@ -51,7 +51,6 @@ as soon as one letter is bigger, then that whole word is bigger.
 """
 
 # ✨Practice 3 — String Comparison Practice
-
 # 1) "abc" < "abd"
 print( "abc" < "abd") # True
 # 2) "milk" > "honey"
