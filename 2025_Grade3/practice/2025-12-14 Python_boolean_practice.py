@@ -57,7 +57,6 @@ print( "abc" < "abd") # True
 print("milk" > "honey") # True
 # 3) "A" < "a"
 print("A" < "a") # True
-
 # 4) "book" == "Book"
 print("book" == "Book") # False
 # 5) "carrot" != "car"
