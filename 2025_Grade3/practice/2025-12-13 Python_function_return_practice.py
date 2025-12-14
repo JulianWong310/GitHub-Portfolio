@@ -48,9 +48,9 @@ def J(n,g):
     if g=="M":
         return f"Hello Mr.{n},welcome!"
     elif g=="F":
-         return f"Hello Mrs.{n},welcome!"
+        return f"Hello Mrs.{n},welcome!"
     else:
-          return f"Invalid input"
+        return f"Invalid input"
 
 name=input()
 gender=input()

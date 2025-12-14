@@ -120,8 +120,3 @@ def pj(n):
         print(i)
 n=int(input())
 pj(n)
-
-
-
-
-
