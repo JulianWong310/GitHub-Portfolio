@@ -31,15 +31,15 @@ print(100>= 100) # True
 # 🐶 Practice 2 — Silly Animal Quiz
 # Look at the sentence and answer True or False like Python:
 # "cat" == "cat"
-print( "cat" == "cat") # T
+print( "cat" == "cat") # True
 # "dog" == "fish"
-print( "dog" == "fish") # F
+print( "dog" == "fish") # False
 # "bird" == "Bird" (hint: capital letters matter!)
-print( "bird" == "Bird" ) # F
+print( "bird" == "Bird" ) # False
 # "cow" != "pig" (≠ means “not the same”)
-print("cow" != "pig" ) # T
+print("cow" != "pig" ) # True
 # "fish" == "fish " (hint: notice the space!)
-print("fish" == "fish ") # F
+print("fish" == "fish ") # False
 
 """
 String comparison is based on ASCII values:
@@ -53,19 +53,19 @@ as soon as one letter is bigger, then that whole word is bigger.
 # ✨Practice 3 — String Comparison Practice
 
 # 1) "abc" < "abd"
-print( "abc" < "abd") # T
+print( "abc" < "abd") # True
 # 2) "milk" > "honey"
-print("milk" > "honey") # T
+print("milk" > "honey") # True
 # 3) "A" < "a"
-print("A" < "a") # T
+print("A" < "a") # True
 
 # 4) "book" == "Book"
-print("book" == "Book") # F
+print("book" == "Book") # False
 # 5) "carrot" != "car"
-print("carrot" != "car") # T
+print("carrot" != "car") # True
 
 # In Python: you cannot compare "text" with a number like 5.
-# 🧒Practice 3  — Fix the comparison
+# 🧒Practice 4 — Fix the comparison
 # a) "7" < 9
 print(int("7") < 9)
 # b) "12" == 12
