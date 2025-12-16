@@ -16,17 +16,17 @@ False → means NO, it is not correct!
 # 🎯 Practice 1 — Number Detective
 # Say if each statement is True or False:
 # 1) 5 > 2
-print(5>2) # True
+print(5 > 2) # True
 # 2) 10 < 3
-print(10<3) # False
+print(10 < 3) # False
 # 3) 9 == 4
-print(9==4) # False
+print(9 == 4) # False
 # 4) 7 != 7
 print(7 != 7) # False
 # 5) 1 + 1 == 2
 print(1 + 1 == 2) # True
-# 6) 100>= 100
-print(100>= 100) # True
+# 6) 100 >= 100
+print(100 >= 100) # True
 
 # 🐶 Practice 2 — Silly Animal Quiz
 # Look at the sentence and answer True or False like Python:
@@ -51,14 +51,12 @@ as soon as one letter is bigger, then that whole word is bigger.
 """
 
 # ✨Practice 3 — String Comparison Practice
-
 # 1) "abc" < "abd"
 print( "abc" < "abd") # True
 # 2) "milk" > "honey"
 print("milk" > "honey") # True
 # 3) "A" < "a"
 print("A" < "a") # True
-
 # 4) "book" == "Book"
 print("book" == "Book") # False
 # 5) "carrot" != "car"
@@ -71,4 +69,4 @@ print(int("7") < 9)
 # b) "12" == 12
 print(int("12")==12)
 # c)  5 > "2"
-print(str(5)> "2")
+print(str(5) > "2")
