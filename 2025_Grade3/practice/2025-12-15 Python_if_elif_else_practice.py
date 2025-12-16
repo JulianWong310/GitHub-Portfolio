@@ -37,8 +37,8 @@ Problem 2: Small Number Game 🔢
 You are given a number x.
 Rules:
 If x < 0, print "Negative"
-Else if x < 100, print "Medium"
 Else if x < 10, print "Small"
+Else if x < 100, print "Medium"
 Else, print "Large"
 """
 x=int(input())
@@ -76,6 +76,7 @@ else:
         print("No Stickers")
 
 # Method 2
+g=int(input())
 if g==5:
     print("perfect")
 elif g>=3:
