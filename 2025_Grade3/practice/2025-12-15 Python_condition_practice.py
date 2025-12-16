@@ -76,6 +76,7 @@ else:
         print("No Stickers")
 
 # Method 2
+g=int(input())
 if g==5:
     print("perfect")
 elif g>=3:
