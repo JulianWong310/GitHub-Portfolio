@@ -101,5 +101,5 @@ elif r<=10:
     else:
         print("Move Slow")
 else:
-    print( "Full Power")
+    print("Full Power")
 
