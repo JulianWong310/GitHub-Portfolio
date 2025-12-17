@@ -78,13 +78,13 @@ Else energy <= 10:
 
 # Method 1
 r = int(input())
-if r > 10:
+if r>10:
     print("Full Power")
-elif r <= 0:
+elif r<=0:
     print("Stop")
-elif r <= 5:
+elif r<=5:
     print("Low Energy")
-elif r % 2 == 0:
+elif r%2==0:
     print("Move Fast")
 else:
     print("Move Slow")
@@ -101,5 +101,5 @@ elif r<=10:
     else:
         print("Move Slow")
 else:
-    print( "Full Power")
+    print("Full Power")
 
