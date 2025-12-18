@@ -115,7 +115,7 @@ o=int(input())
 l=int(input())
 if o >= 5:
     if l==0:
-        print( "Excellent")
+        print("Excellent")
     else:
         print("Good")
 else:
