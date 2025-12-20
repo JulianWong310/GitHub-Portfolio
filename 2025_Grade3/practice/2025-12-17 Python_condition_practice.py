@@ -15,12 +15,12 @@ Else:
 """
 n=int(input())
 if n % 3==0:
-    if n % 2 ==0:
+    if n%2 ==0:
         print("Divisible by 6")
     else:
         print("Divisible by 3 only")
 else:
-    if n % 2==0:
+    if n%2==0:
         print("Divisible by 2 only")
     else:
         print("Not divisible by 2 or 3")
@@ -115,7 +115,7 @@ o=int(input())
 l=int(input())
 if o >= 5:
     if l==0:
-        print( "Excellent")
+        print("Excellent")
     else:
         print("Good")
 else:
