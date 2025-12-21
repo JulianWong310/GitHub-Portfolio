@@ -1,7 +1,7 @@
 """
 2025/12/21
  mBot2 Black Line Following (Basic)
-This project implements a basic black line-following behavior for **mBot2** using the **Quad RGB Line Sensor**.
+This project implements a basic black line-following behavior for mBot2 using the Quad RGB Line Sensor.
 The robot continuously checks the left and right sensors to detect a black line and adjusts its movement accordingly.
 Behavior
 - Both sensors detect black → move forward
