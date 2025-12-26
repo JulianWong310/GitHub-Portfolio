@@ -23,9 +23,9 @@ Small projects where I applied what I learned:
   → writing functions and returning values
 
 **Conditions (if / elif / else)**
-- [Python_condition_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-17%20Python_condition_practice.py)  
+- [Python_if_elif_else_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-17%20Python_condition_practice.py)  
   → using rules and decisions in code
 
 **Loops**
-- [Python_sum_to_n](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-22%20Python_math_problem_solving.py)  
+- [Python_math_problem_solving](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-22%20Python_math_problem_solving.py)  
   → using for loops to solve math problems
