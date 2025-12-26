@@ -4,6 +4,7 @@ Music, motion, and lights are synchronized using event-driven Python code on Cyb
 """
 
 import cyberpi, mbot2, event, time
+cyberpi.console.println('Press B to play Mario Dance 🎮')
 
 @event.is_press("b")
 def play_mario():
