@@ -12,4 +12,5 @@
 - I turn around on green to change direction.
 - I speed up on blue to test fast movement.
 - I use sleep() so actions can finish clearly.
+- Next, I want to make the turns smoother.
 </details>
