@@ -4,3 +4,13 @@
 
 ![Demo Screenshot](Assets/mbot21.jpg)
 ![Demo Screenshot](Assets/mbot22.jpg)
+<details>
+<summary><strong>🧠 My Thinking</strong></summary>
+
+- I stop on red because it means danger.
+- I slow down on yellow to be careful.
+- I turn around on green to change direction.
+- I speed up on blue to test fast movement.
+- I use sleep() so actions can finish clearly.
+- Next, I want to make the turns smoother.
+</details>
