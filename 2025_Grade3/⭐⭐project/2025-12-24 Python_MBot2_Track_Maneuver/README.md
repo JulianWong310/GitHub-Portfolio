@@ -4,7 +4,6 @@
 
 ![Demo Screenshot](Assets/mbot21.jpg)
 ![Demo Screenshot](Assets/mbot22.jpg)
-
 <details>
 <summary><strong>🧠 My Thinking</strong></summary>
 
