@@ -120,10 +120,10 @@ Sample Output
 3
 12
 """
-a = int(input())            # a hours
-b = int(input())            # meters the snail crawls in a hours
+a = int(input())      # a hours
+b = int(input())      # meters the snail crawls in a hours
 speed = b/a
-time= 36/speed         # time*speed=distance
+time= 36/speed        # time*speed=distance
 
 print(speed)
 print(time)
