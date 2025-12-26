@@ -18,9 +18,9 @@ These are small projects I created to apply what I learned:
 
 ### Practice
 These are practice exercises to improve my Python skills:
-- [2025-12-13: Python_function_return_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-13%20Python_function_return_practice.py)
+- [2025-12-13: Python_function_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-13%20Python_function_return_practice.py)
 
-- [2025-12-15: Python_if_elif_else_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-15%20Python_if_elif_else_practice.py)
+- [2025-12-17: Python_if_elif_else_practice](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-17%20Python_condition_practice.py)
 
 ## Goals for 2025
 1. Learn Python basics: variables, data types, loops, functions  
