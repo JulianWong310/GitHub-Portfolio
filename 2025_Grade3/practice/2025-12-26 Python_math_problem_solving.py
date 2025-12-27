@@ -16,7 +16,7 @@ for i in range(7):
     else:
         x=x+3
 print(x)
-# check 4,9,12,17,20,24,28
+# check：4,9,12,17,20,24,28
 
 """
 Problem 2 — Repeated Division
@@ -32,7 +32,7 @@ y=96
 for i in range(4):
     y=y/2
 print (y)
-# check 48,24,12,6
+# check：48,24,12,6
 
 """
 Problem 3 — Increasing Subtraction
