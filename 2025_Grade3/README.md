@@ -9,7 +9,7 @@ It includes small projects and practice exercises as I began learning Python.
 Small projects where I applied what I learned:
 
 - [Drawing a Blanket Pattern with Turtle](https://github.com/JulianWong310/GitHub-Portfolio/tree/main/2025_Grade3/%E2%AD%90%E2%AD%90project/2025-12-03%20Python_Turtle_Pattern_Blanket)  
-  → using loops and patterns to draw shapes with Turtle
+  → using for-loops to construct stars, triangles, squares, and flowers with Turtle
 
 - [MBot2 Track Maneuver](https://github.com/JulianWong310/GitHub-Portfolio/tree/main/2025_Grade3/%E2%AD%90%E2%AD%90project/2025-12-24%20Python_MBot2_Track_Maneuver)  
   → controlling a robot with sensors and color-based actions
