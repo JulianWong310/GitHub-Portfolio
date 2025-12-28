@@ -1,5 +1,5 @@
 """
-2025/12-28
+2025/12/28
 ✅ Problem 1 — Double & Stop
 A machine starts with:
 x = 1
