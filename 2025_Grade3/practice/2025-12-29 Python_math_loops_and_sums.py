@@ -1,7 +1,7 @@
 """
 2025/12/29
 
-Problem 1 - review
+Problem 1 - Review
 Start with:
 x = 4
 The machine runs 5 times.
@@ -22,7 +22,7 @@ for i in range(5):
 print(x)
 
 """
- Problem 2 - review
+Problem 2 - Review
 All numbers from 1 to 20 are checked.
 A number is called special if:
 	•	It is even
