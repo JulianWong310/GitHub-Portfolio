@@ -3,16 +3,16 @@
 summary
 1️⃣ add — What changes each step
 Common forms
-x = x + add             growing increase final value x
-S = S + add             growing increase sum
-add = add + 1        growing increase
-add = add + v       growing increase with variable
+x = x + add        growing increase final value x
+S = S + add        growing increase sum
+add = add + 1      growing increase
+add = add + v      growing increase with variable
 
 2️⃣ sum — The total so far
 Typical pattern
 S  = 0
-S = S + i                special numbers sum
-S = S + add         growing  increase sum
+S = S + i          special numbers sum
+S = S + add        growing  increase sum
 
 3️⃣ count — How many times
 Typical pattern
