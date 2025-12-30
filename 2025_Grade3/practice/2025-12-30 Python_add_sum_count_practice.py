@@ -110,9 +110,9 @@ a
 b
 n
 """
-a=int(input()) # 2
-b=int(input()) # 3
-n=int(input()) # 20
+a=int(input()) 
+b=int(input())
+n=int(input())
 add=a
 count=0
 x= 0
