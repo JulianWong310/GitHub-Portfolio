@@ -3,8 +3,15 @@
 summary
 1️⃣ increasing growing ( add) VS constant growing
 Common forms
+<<<<<<< HEAD:2025_Grade3/practice/2025-12-31 Python_add_sum_count_practice.py
 add = add + 1        growing increase
 add = add + v        growing increase with variable
+=======
+x = x + add        growing increase final value x
+S = S + add        growing increase sum
+add = add + 1      growing increase
+add = add + v      growing increase with variable
+>>>>>>> 4d15795c0f5ac00d44556182251ef628f9b87bf7:2025_Grade3/practice/2025-12-30 Python_add_sum_count_practice.py
 
 x = x + add             growing increase final value x
 S = S + x                  growing  sum
@@ -15,9 +22,14 @@ S = S + x                 constant increasing sum
 2️⃣ sum for the special numbers
 All numbers from a to b
 S  = 0
+<<<<<<< HEAD:2025_Grade3/practice/2025-12-31 Python_add_sum_count_practice.py
 for i in range (a,b+1)
    if  condition：
       S = S + i
+=======
+S = S + i          special numbers sum
+S = S + add        growing  increase sum
+>>>>>>> 4d15795c0f5ac00d44556182251ef628f9b87bf7:2025_Grade3/practice/2025-12-30 Python_add_sum_count_practice.py
 
 3️⃣ count : How many times ( repeating times)
 count = 0
@@ -116,9 +128,9 @@ a
 b
 n
 """
-a=int(input()) # 2
-b=int(input()) # 3
-n=int(input()) # 20
+a=int(input()) 
+b=int(input())
+n=int(input())
 add=a
 count=0
 x= 0
