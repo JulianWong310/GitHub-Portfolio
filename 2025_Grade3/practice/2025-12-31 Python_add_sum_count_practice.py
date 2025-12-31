@@ -7,11 +7,6 @@ add = add + 1      growing increase
 add = add + v      growing increase with variable
 
 x = x + add        growing increase final value x
-S = S + add        growing increase sum
-add = add + 1      growing increase
-add = add + v      growing increase with variable 
-
-x = x + add        growing increase final value x
 S = S + x          growing sum
 
 x= x + 1           constant increasing final value x
