@@ -27,5 +27,5 @@ Small projects where I applied what I learned:
   → using rules and decisions in code
 
 **Loops**
-- [Python_math_problem_solving](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-22%20Python_math_problem_solving.py)  
+- [Python_math_problem_solving](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2025_Grade3/practice/2025-12-31%20Python_add_sum_count_practice.py)  
   → using for loops to solve math problems
