@@ -1,5 +1,6 @@
 """
 2025-12-31
+
 summary
 1️⃣ increasing growing (add) VS constant growing
 Common forms
