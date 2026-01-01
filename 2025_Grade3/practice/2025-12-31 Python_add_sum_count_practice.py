@@ -1,15 +1,11 @@
 """
 2025-12-31
+
 summary
 1️⃣ increasing growing (add) VS constant growing
 Common forms
 add = add + 1      growing increase
 add = add + v      growing increase with variable
-
-x = x + add        growing increase final value x
-S = S + add        growing increase sum
-add = add + 1      growing increase
-add = add + v      growing increase with variable 
 
 x = x + add        growing increase final value x
 S = S + x          growing sum
