@@ -18,5 +18,5 @@ while w*4<=100:
     w=w+2
     count=count+1
 print(w*4)
-print(count)
+print(count) # 6 months after September
 # Therefore the first month is March.
