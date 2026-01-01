@@ -19,4 +19,4 @@ while w*4<=100:
     count=count+1
 print(w*4)
 print(count)
-# the first month is March
+# Therefore the first month is March.
