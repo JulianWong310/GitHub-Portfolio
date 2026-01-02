@@ -135,5 +135,5 @@ def next_step(x):
         return x+5
 x=3
 for i in range (5) :
-    x=next_step(x) # 8, 4, 2, 1 , 6
+    x=next_step(x) # 8, 4, 2, 1, 6
 print(x)
