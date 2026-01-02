@@ -32,7 +32,7 @@ while r<10:
         r=r-1
         e=e+1
         count = count + 1
-print(f"emeralds are {e}, diamond are {d}, rubies are {r}")  # question a
+print(f"emeralds are {e}, diamonds are {d}, rubies are {r}")  # question a
 print(count) # question b
 
 
