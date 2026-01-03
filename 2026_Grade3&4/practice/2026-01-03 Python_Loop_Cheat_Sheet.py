@@ -15,7 +15,7 @@ S = sum of all the x used in the loop
 
 4) How do we calculate add?
 add = add + constant
-(add grows every step)
+("add" grows every step)
 
 5) How do we calculate x?
 x = x + add
