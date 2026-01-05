@@ -1,5 +1,6 @@
 """
 2026/01/01
+Source: University of Waterloo - CEMC Problem of the Week (POTW)
 Babysitting Bonus
 Anya agrees to look after her younger brother every day for 1 hour before dinner.
 Her parents agree to pay her $15 per week, starting in September.
