@@ -1,5 +1,6 @@
 # mBot2 Line Following with Obstacle Avoidance
 
+🎥 [**Action Video**](https://github.com/user-attachments/assets/7556d5a0-9dcc-4e69-a079-50024cef5ab0)
 <details>
 <summary><strong>Project Description</strong></summary>
 This project is a robot made with mBot2, CyberPi, and Makeblock Python.
@@ -16,6 +17,3 @@ Features
 - Uses an ultrasonic sensor to detect obstacles
 - Starts when Button A on CyberPi is pressed
 - Avoids obstacles before following the line
-
-🎥 [**Action Video**](https://github.com/user-attachments/assets/7556d5a0-9dcc-4e69-a079-50024cef5ab0)
-
