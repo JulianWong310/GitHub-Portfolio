@@ -1,5 +1,6 @@
 """
 2026/01/02
+Source: University of Waterloo - CEMC Problem of the Week (POTW)
 Gathering Treasure
 Genevieve is making a video game where players need to trade gems in order to get to the next level.
 The gems in the game are emeralds (💎), diamonds (◆), and rubies (●).
