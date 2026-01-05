@@ -1,10 +1,10 @@
 """
 2026-01-05
-Draw a Diamond (Rhombus) Pattern
+Draw a diamond (rhombus) pattern
       *
-    ***
-  *****
-    ***
+     ***
+    *****
+     ***
       *
 """
 for i in range(1,6,2):
