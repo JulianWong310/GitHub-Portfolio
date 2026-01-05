@@ -1,6 +1,6 @@
 # mBot2 Line Following with Obstacle Avoidance
 
-🎥 [**Action Video**](https://github.com/user-attachments/assets/7556d5a0-9dcc-4e69-a079-50024cef5ab0)
+🎥 [**Action Video**](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/2026_Grade3%264/%E2%AD%90%E2%AD%90project/2026-01-04_Mbot2-Line-Following-Obstacle-Avoidance/Assets/Videos2026-01-04_190330_934.mp4)
 <details>
 <summary><strong>Project Description</strong></summary>
 This project is a robot made with mBot2, CyberPi, and Makeblock Python.
