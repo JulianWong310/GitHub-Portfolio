@@ -6,7 +6,7 @@ This project is a robot made with mBot2, CyberPi, and Makeblock Python.
 The robot can follow a black line on the ground.
 It uses a Quad RGB sensor to see the line.
 It also uses an ultrasonic sensor to find obstacles.
-When the robot sees an obstacle, it turns away.
+When the robot sees an obstacle, it turns the opposite direction.
 
 I spent a lot of time testing and fixing the code.
 After many real-world tests, the robot works very well.
