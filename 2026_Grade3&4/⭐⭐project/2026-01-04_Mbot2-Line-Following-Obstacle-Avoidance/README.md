@@ -2,7 +2,6 @@
 
 🎥 [**Action Video**](https://github.com/user-attachments/assets/c1977c1a-afbd-4185-885d-07506c6d33d7)
 
-Project Description
 This project is a robot made with mBot2, CyberPi, and Makeblock Python.
 The robot can follow a black line on the ground.
 It uses a Quad RGB sensor to see the line.
