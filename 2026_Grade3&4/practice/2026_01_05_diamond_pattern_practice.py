@@ -1,6 +1,6 @@
 """
 2026-01-05
- Draw a Diamond (Rhombus) Pattern
+Draw a Diamond (Rhombus) Pattern
       *
     ***
   *****
