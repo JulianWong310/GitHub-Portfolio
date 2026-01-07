@@ -11,8 +11,8 @@ H=int(input())
 for i in range(1,H+1,2):
     star="*"*i
     space=" "*((H-i)//2)
-    print(f"{ space}{ star}{ space}")
+    print(f"{space}{star}{space}")
 for i in range(H-2,0,-2):
     star="*"*i
     space=" "*((H-i)//2)
-    print(f"{ space}{ star}{ space}")
+    print(f"{space}{star}{space}")
