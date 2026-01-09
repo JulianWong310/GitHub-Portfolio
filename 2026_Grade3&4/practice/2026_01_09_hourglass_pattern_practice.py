@@ -9,9 +9,9 @@ Each line must be centered using leading spaces.
 
 Example for H=5:
 *****
-  ***
-    *
-  ***
+ ***
+  *
+ ***
 *****
 """
 H=int(input())
