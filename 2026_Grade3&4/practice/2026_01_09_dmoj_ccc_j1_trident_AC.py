@@ -46,7 +46,7 @@ h=int(input())
 for i in range(t):
     star="*"
     space=" "*s
-    print(f"{star}{space}{star}{space}{ star}")
+    print(f"{star}{space}{star}{space}{star}")
 star1="*"*(2*s+3)
 print(star1)
 for i in range(h):
