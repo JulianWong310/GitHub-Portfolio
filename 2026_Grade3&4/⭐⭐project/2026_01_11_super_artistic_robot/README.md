@@ -4,6 +4,7 @@ Hi there! Welcome to my Super Artistic Robot! I created this cool program to dra
 
 What can this robot do?
 My robot is a master artist. You can ask it to paint 4 different things:
+
 BOWTIE (h = 5)
 ```text
 *       *
@@ -11,22 +12,25 @@ BOWTIE (h = 5)
 *********
 ***   ***
 *       *
-
+```
 DIAMOND (h = 5)
+```text
   *  
  *** 
 *****
  *** 
   *  
-
+```
 HOURGLASS (h = 5)
+```text
 *******
  *****
   ***
  *****
 *******
-
+```
 TRIDENT (t = 4, s = 3, h = 2)
+```text
 *   *   *
 *   *   *
 *   *   *
@@ -34,7 +38,7 @@ TRIDENT (t = 4, s = 3, h = 2)
 *********
     *
     *
-
+```
 How to play with my Robot:
 Run the code: The robot will say "Welcome to Super Artistic Robot" and show you a menu.
 
