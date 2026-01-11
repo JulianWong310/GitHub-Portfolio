@@ -4,14 +4,14 @@ https://dmoj.ca/problem/ccc03j1
 A trident is a fork with three tines (prongs).
 A simple picture of a trident can be made from asterisks and spaces:
 
-*    *    *
-*    *    *
-*    *    *
+*  *  *
+*  *  *
+*  *  *
 *******
-      *
-      *
-      *
-      *
+   *
+   *
+   *
+   *
 In this example, each tine is a vertical column of 3 asterisks.
 Each tine is separated by 2 spaces.
 The handle is a vertical column of 4 asterisks below the middle tine.
@@ -32,13 +32,13 @@ Sample Input
 2
 Sample Output
 
-*      *      *
-*      *      *
-*      *      *
-*      *      *
+*   *   *
+*   *   *
+*   *   *
+*   *   *
 *********
-         *
-         *.
+    *
+    *
 """
 t=int(input())
 s=int(input())
@@ -46,7 +46,7 @@ h=int(input())
 for i in range(t):
     star="*"
     space=" "*s
-    print(f"{ star}{space}{ star}{space}{ star}")
+    print(f"{star}{space}{star}{space}{star}")
 star1="*"*(2*s+3)
 print(star1)
 for i in range(h):

@@ -9,17 +9,17 @@ Each line must be centered using leading spaces.
 
 Example for H=5:
 *****
-  ***
-    *
-  ***
+ ***
+  *
+ ***
 *****
 """
 H=int(input())
 for i in range(H,1,-2):
     star="*"*i
     space=" "*((H-i)//2)
-    print(f"{space}{star}{space}")
+    print(f"{space}{star}")
 for i in range(1,H+2,2):
     star="*"*i
     space=" "*((H-i)//2)
-    print(f"{space}{star}{space}")
+    print(f"{space}{star}")
