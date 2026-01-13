@@ -44,7 +44,7 @@ Run the code: The robot will say "Welcome to Super Artistic Robot" and show you 
 
 Pick a number: Type a number from 1 to 4 to choose what to draw.
 
-Give it a size: * For the Bowtie, Diamond, and Hourglass, give it an odd number (like 5, 7, or 9).
+Give it a size: for the Bowtie, Diamond, and Hourglass, give it an odd number (like 5, 7, or 9).
 
 For the Trident, you get to choose how long the tines are, how much space they have, and how long the handle is!
 
