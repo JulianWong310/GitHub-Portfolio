@@ -6,11 +6,11 @@ Operation  Modify List? 	Use
 append()	      ✅	      build
 pop()	          ✅	      simulate
 remove()	      ✅	      delete
-count()	          ❌	      frequency
-sort()	          ✅	      ranking
+count()	        ❌	      frequency
+sort()	        ✅	      ranking
 reverse()	      ✅	      order
 len()	          ❌	      loops
-in	              ❌	      check
+in	            ❌	      check
 """
 
 # 1 Create a List
