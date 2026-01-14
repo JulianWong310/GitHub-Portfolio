@@ -1,16 +1,19 @@
 """"
 2026/01/13
 Part 1
-Python List — All Common Operations
-Operation  Modify List? 	Use
-append()	      ✅	      build
-pop()	          ✅	      simulate
-remove()	      ✅	      delete
-count()	        ❌	      frequency
-sort()	        ✅	      ranking
-reverse()	      ✅	      order
-len()	          ❌	      loops
-in	            ❌	      check
+ Python List — All Common Operations
+
+| Operation   | Modify List? | Common Use |
+|------------|--------------|------------|
+| append()   | ✅ Yes        | build      |
+| pop()      | ✅ Yes        | simulate   |
+| remove()   | ✅ Yes        | delete     |
+| count()    | ❌ No         | frequency |
+| sort()     | ✅ Yes        | ranking    |
+| reverse()  | ✅ Yes        | order      |
+| len()      | ❌ No         | loops      |
+| in         | ❌ No         | check      |
+
 """
 
 # 1 Create a List
