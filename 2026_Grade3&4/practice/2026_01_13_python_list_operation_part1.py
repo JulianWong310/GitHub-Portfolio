@@ -1,20 +1,20 @@
 """"
 2026/01/13
 Part 1
- Python List — All Common Operations
-
-| Operation   | Modify List? | Common Use |
-|------------|--------------|------------|
-| append()   | ✅ Yes        | build      |
-| pop()      | ✅ Yes        | simulate   |
-| remove()   | ✅ Yes        | delete     |
-| count()    | ❌ No         | frequency |
-| sort()     | ✅ Yes        | ranking    |
-| reverse()  | ✅ Yes        | order      |
-| len()      | ❌ No         | loops      |
-| in         | ❌ No         | check      |
-
 """
+
+# Python List — All Common Operations
+#
+# Operation    Modify List?    Use
+# ----------   ------------    ----------
+# append()     YES             build
+# pop()        YES             simulate
+# remove()     YES             delete
+# count()      NO              frequency
+# sort()       YES             ranking
+# reverse()    YES             order
+# len()        NO              loops
+# in           NO              check
 
 # 1 Create a List
 a = [1, 2, 3, 4, 1, 5]
