@@ -13,4 +13,5 @@ drink=[130,160,118,0]
 dessert=[167,266,75,0]
 
 x= burger[b-1]+side[s-1]+drink[d-1]+dessert[e-1]
+
 print(f"Your total Calorie count is {x}.")
