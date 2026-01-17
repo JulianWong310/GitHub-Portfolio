@@ -146,6 +146,7 @@ for x in nums:
     if x!=0:
         num1.append(x)
 print(num1)
+
 # 15 String → List → String (Modify Characters)
 s = "ABRAKADABRA"
 # Convert the strings into a list of characters
