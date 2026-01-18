@@ -16,7 +16,7 @@ print(a)
 # 2 When you loop with for x in list:, never modify the list itself inside the loop.
 # e.g: remove all the even number from the list
 nums = [1, 2, 3, 4, 6, 8]
-#  ❌ wrong
+# wrong
 for x in nums:
     print(x)
     if x % 2 == 0:
