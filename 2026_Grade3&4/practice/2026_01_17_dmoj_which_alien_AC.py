@@ -1,3 +1,7 @@
+"""
+2026/01/17
+https://dmoj.ca/problem/ccc11j1
+"""
 a=int(input())
 e=int(input())
 if a>2 and e<5:
