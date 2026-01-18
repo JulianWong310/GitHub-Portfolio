@@ -25,8 +25,8 @@ a = [1, 2, 3]
 for i in range(len(a)):
     a[i] = a[i] + 1
 # len(a)=3
-# i =0 : a[0] modified from 1 to 2
-# i =1 :a[1] modified from 2 to 3
+# i = 0: a[0] modified from 1 to 2
+# i = 1: a[1] modified from 2 to 3
 # i = 2: a[2] modified from 3 to 4
 print(a)
 
