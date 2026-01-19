@@ -74,6 +74,6 @@ nums = [3, 5, 5, 2, 7]
 # If yes, print "YES", Otherwise, print "NO"
 # Compare neighboring elements only (nums[i] and nums[i+1])
 # Expected Output: YES
-for i in range(len(a)-1):
+for i in range(len(nums)-1):
     if nums[i] == nums[i+1]:
         print("YES")
