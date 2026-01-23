@@ -1,6 +1,6 @@
 """
 2026/01/22
-Question 15
+Gauss Contest 2016 – Question 15
 Sophia did push-ups every day for 7 days. Each day after the first day, she did 5 more
 push-ups than the day before. In total she did 175 push-ups. How many push-ups
 did Sophia do on the last day? justify the answer is 40.
