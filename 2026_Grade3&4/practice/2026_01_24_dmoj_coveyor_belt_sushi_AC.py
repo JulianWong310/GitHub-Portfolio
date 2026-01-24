@@ -1,0 +1,9 @@
+"""
+2026/01/24
+https://dmoj.ca/problem/ccc24j1
+"""
+r=int(input())
+g=int(input())
+b=int(input())
+tm=3*r+4*g+5*b
+print(tm)
