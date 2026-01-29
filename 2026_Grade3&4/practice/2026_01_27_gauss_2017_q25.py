@@ -11,6 +11,6 @@ Finally, Ashley finds the sum of all the integers which have not been underlined
 """
 sm=0
 for i in range(1,2018):
-    if i%2!=0 and  i%3!=0 and i%5!=0:
+    if i%2!=0 and i%3!=0 and i%5!=0:
         sm+=i
 print(sm)
