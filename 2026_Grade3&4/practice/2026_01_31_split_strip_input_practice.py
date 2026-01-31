@@ -2,7 +2,7 @@
 2026/01/31
 
 | Input Pattern          | Correct Input Handling                                              | Notes / Output                                                                                       |
-| ---------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ---------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | `ADD`                  | `word = input().strip()`                                            | Single word or command; removes leading/trailing spaces; use directly as string                      |
 | `A B A B A`            | `commands = input().split()`                                        | Multiple elements in one line, space-separated → list `['A','B','A','B','A']`                        |
 | `1 2 3 4`              | `nums = list(map(int, input().split()))`                            | Multiple numbers in one line, space-separated → integer list `[1,2,3,4]`                             |
