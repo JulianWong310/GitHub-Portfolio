@@ -1,10 +1,20 @@
 """
 2026/02/01
-| Input Pattern          | Correct Input Handling                                              | Notes / Output                                                                                       |
-| ---------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Multiple lines (words) |`for _ in range(N): word = input().strip()` | Directly process each word as you read it, no list needed |
-| Multiple lines (words) |`words = [input().strip() for _ in range(N)]` | Store all words in a list for later use (e.g., indexing, sorting, searching)   |
-For multiple lines (numbers) change input.strip to int(input)
+
+Input Pattern               | Correct Input Handling                              | Notes / Output
+--------------------------- | --------------------------------------------------- | ---------------------------------------------------------------
+Multiple lines (words)      | for _ in range(N):                                  | Directly process each word as you read it,
+                            |     word = input().strip()                          | no list needed
+
+Multiple lines (words)      | words = [input().strip()                            | Store all words in a list for later use
+                            |          for _ in range(N)]                         | (indexing, sorting, searching)
+
+Multiple lines (numbers)    | for _ in range(N):                                  | Directly process each number as you read it,
+                            |     num = int(input())                              | no list needed
+
+Multiple lines (numbers)    | nums = [int(input())                                | Store all numbers in a list for later use
+                            |         for _ in range(N)]                          | (math, sorting, comparisons)
+
 """
 
 """
