@@ -1,19 +1,24 @@
 """
 2026/02/01
 
-Input Pattern               | Correct Input Handling                              | Notes / Output
---------------------------- | --------------------------------------------------- | ---------------------------------------------------------------
-Multiple lines (words)      | for _ in range(N):                                  | Directly process each word as you read it,
-                            |     word = input().strip()                          | no list needed
+Input Pattern                    | Correct Input Handling                              | Notes / Output
+------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------
+Multiple lines (words)           | for _ in range(N):                                  | Directly process each word as you read it,
+                                 |     word = input().strip()                          | no list needed
 
-Multiple lines (words)      | words = [input().strip()                            | Store all words in a list for later use
-                            |          for _ in range(N)]                         | (indexing, sorting, searching)
+Multiple lines (words)           | words = [input().strip()                            | Store all words in a list for later use
+                                 |          for _ in range(N)]                         | (indexing, sorting, searching)
 
-Multiple lines (numbers)    | for _ in range(N):                                  | Directly process each number as you read it,
-                            |     num = int(input())                              | no list needed
+Multiple lines (numbers)         | for _ in range(N):                                  | Directly process each number as you read it,
+                                 |     num = int(input())                              | no list needed
 
-Multiple lines (numbers)    | nums = [int(input())                                | Store all numbers in a list for later use
-                            |         for _ in range(N)]                          | (math, sorting, comparisons)
+Multiple lines (numbers)         | nums = [int(input())                                | Store all numbers in a list for later use
+                                 |         for _ in range(N)]                          | (math, sorting, comparisons)
+
+Unknown count (numbers)          | while True:                                         | Number of inputs is NOT given.
+(stop by condition / break)      |     num = int(input())                              | Stop when a condition is met (break).
+                                 |     if <condition>:                                 | Very common in CCC simulations.
+                                 |         break
 
 """
 
