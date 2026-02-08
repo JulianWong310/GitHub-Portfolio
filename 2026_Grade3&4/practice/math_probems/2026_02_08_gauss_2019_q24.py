@@ -9,12 +9,12 @@ x = [20]
 y = [19]
 
 # case 1 first move x, then move y
-for i in steps1:                              # i=1, 3
+for i in steps1:                   # i=1, 3
     new_results = []
-    for j in x:                                    # j=20, 21/19,
+    for j in x:                    # j=20, 21/19,
         new_results.append(j+i)    # [21], [24,22]
-        new_results.append(j-i)     # [21,19],[24,18,22,16]
-    x = new_results                        # [21,19],[24,18,22,16]
+        new_results.append(j-i)    # [21,19],[24,18,22,16]
+    x = new_results                # [21,19],[24,18,22,16]
 print(x)
 for n in steps2:
     new_result2=[]
