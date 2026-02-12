@@ -6,8 +6,8 @@ Slicing does NOT change the original list but creates a NEW list
 # a[start : end: step]   # start included, end NOT included
 a = [10, 20, 30, 40]
 a[1:3]    # [20, 30]
-a[:2]      # [10, 20]
-a[2:]      # [30, 40]
+a[:2]     # [10, 20]
+a[2:]     # [30, 40]
 a[: :2]   # [10,30]
 a[::-1]   # reverse the list [40,30,20,10]
 a[-2:]    # [30,40]
