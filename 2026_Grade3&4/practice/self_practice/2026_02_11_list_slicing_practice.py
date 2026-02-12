@@ -83,7 +83,7 @@ print(a)
 print(b) # [2,3,4,5]
 
 # Practice 5.2 — True or False
-#Write True or False
+# Write True or False
 # a[:] creates a new list  YES
 # Changing a slice will change the original list NO
 # Slicing can cause index out of range YES
