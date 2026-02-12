@@ -88,7 +88,7 @@ print(b) # [2,3,4,5]
 # Changing a slice will change the original list NO
 # Slicing can cause index out of range YES
 a = [1, 2, 3]
-print(a[0:10])   # [1, 2, 3]
-# print(a[10])
+print(a[0:10])   # [1,2,3]
+# print(a[10])   # wrong
 
 
