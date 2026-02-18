@@ -49,11 +49,11 @@ Based on that `.0`, which Clan does the result belong to?
 * **B)** $\mathbb{Q}$ (Rational/Float)
 
 **Q2. The Translator** Translate this "Black Book" sentence into English:  
-**"$\forall x \in \mathbb{N}, x \geq 0$"**
+**$\forall$ x in N, x < 0**
 
 **Q3. The Odd Clan Mystery** Imagine a Clan of only **ODD numbers** $\{1, 3, 5, 7, \dots\}$.  
 Is this Clan **Closed** under **Addition**?  
-*(Try it: $1 + 3 = ?$ Is the answer still an Odd number?)*
+*(Try it: 1 + 3 = ? Is the answer still an Odd number?)*
 
 **Q4. The Python Code Trick** * If `number % 2 == 0` is True, is the number **Even** or **Odd**?  
 * If `number % 10 == 0` is True, what digit does the number **always** end with?
