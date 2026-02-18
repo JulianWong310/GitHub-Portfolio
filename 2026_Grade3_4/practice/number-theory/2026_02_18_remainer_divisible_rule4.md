@@ -1,6 +1,6 @@
 # 🧮 The Secret of Remainders
 **Topic:** Euclidean Division & The Unique Pair $(q, r)$
-**Date:** February 17, 2026
+**Date:** February 18, 2026
 
 ---
 
