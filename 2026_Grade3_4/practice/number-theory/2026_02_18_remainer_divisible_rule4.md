@@ -1,6 +1,6 @@
 # 🧮 The Secret of Remainders
 **Topic:** Euclidean Division & The Unique Pair $(q, r)$
-**Date:** February 17, 2026
+**Date:** February 18, 2026
 
 ---
 
@@ -44,8 +44,8 @@ If we **FORGET** the rule $0 \le r < 3$, look at how many ways we could write $1
 
 **Q1. Fill in the Magic Equation**
 Write these in the form $a = b \cdot q + r$:
-* $25 \div 4 \rightarrow$ $25 = 4 \cdot (\text{__}) + (\text{__})$
-* $40 \div 5 \rightarrow$ $40 = 5 \cdot (\text{__}) + (\text{__})$
+* $25 \div 4 \rightarrow$ $25 = 4 \cdot (\quad) + (\quad)$
+* $40 \div 5 \rightarrow$ $40 = 5 \cdot (\quad) + (\quad)$
 
 **Q2. The Negative Challenge (Wait, this is tricky!)**
 In your notes, you have $-19$ divided by $3$. 
