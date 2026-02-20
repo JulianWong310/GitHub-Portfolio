@@ -1,4 +1,4 @@
-# 🏆 Divisibility Mastery: AMC 8 Style Challenges
+# 🏆 Divisibility Challenges
 **Topic:** The Golden Rules & Contest Math Tricks  
 **Level:** Grade 3-5 Competitive Math
 
