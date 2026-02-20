@@ -1,4 +1,4 @@
-# 🏆 Divisibility Mastery: 10 AMC-Style Challenges
+# 🏆 Divisibility Challenges
 **Topic:** The Three Golden Rules of Divisibility  
 **Target:** AMC 8 / Grade 3-5 Competitive Math  
 **Clans involved:** $\mathbb{Z}$ (Integers) and $\mathbb{N}$ (Natural Numbers)
