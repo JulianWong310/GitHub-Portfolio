@@ -86,7 +86,8 @@ Output
 True
 """
 n=int(input())
-print(n%7 == 0)
+print(n%7==0)
+
 """
 Problem 5: Day After Many Days
 In this problem, we represent the days of the week using integers from 0 to 6:
