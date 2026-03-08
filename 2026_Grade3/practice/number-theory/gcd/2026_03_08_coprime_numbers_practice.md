@@ -1,4 +1,4 @@
-# 🏆 Julian's AMC 8 Challenge: Number Theory
+# 🏆 Number Theory Practice
 
 ---
 
